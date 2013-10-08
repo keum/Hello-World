@@ -1,4 +1,7 @@
-the real file
+{
+  "type": "FeatureCollection",
+  "features": [
+
 {'stations': {'11TH': {'X_COORD': -122.37077,
                        'Y_COORD': 47.65949,
                        'value': '3'},
@@ -112,3 +115,5 @@ the real file
                        'Y_COORD': 47.54156,
                        'value': '3'}},
  'timestamp': ''}
+   ]
+}
